@@ -8,6 +8,9 @@
   "keywords": [
     "data type verify"
   ],
+  "dependencies": {
+    "typescript": "^4.0.3"
+  },
   "author": "linnairen",
   "license": "ISC"
 }
