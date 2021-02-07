@@ -1,6 +1,6 @@
 {
   "name": "common-type-verify",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "verify the data type",
   "main": "./dist/index.ts",
   "scripts": {
